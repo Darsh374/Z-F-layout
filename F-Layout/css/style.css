@@ -73,6 +73,10 @@ body {
     float: left;
 
 }
+img{
+    float: left;
+    padding-right:10px;
+}
 
 #footer{
     bottom: 0;
