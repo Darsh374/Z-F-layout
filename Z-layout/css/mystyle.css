@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/background.png");
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+
+.fullborder {
+    border: black solid thin;
+}
+
+#wrapper {
+    width: 960px;
+    height: 1553px;
+    margin-left: auto;
+    margin-right: auto;
