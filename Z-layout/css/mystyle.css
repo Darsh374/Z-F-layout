@@ -14,3 +14,11 @@ body {
     height: 1553px;
     margin-left: auto;
     margin-right: auto;
+
+#sidebar {
+    width: 367px;
+    float: left;
+}
+
+#footer {
+    clear: both;
